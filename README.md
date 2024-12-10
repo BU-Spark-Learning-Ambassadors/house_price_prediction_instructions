@@ -1,12 +1,12 @@
-**Boston Housing Price Prediction Challenge**
+**Machine Learning: Regression Level Two Coding Quest**
 
 **What is a micro-challenge?**
-A micro-challenge is a focused task or project that can be completed within a relatively short time frame, designed to be innovative and foster learning. These challenges cater to varying skill levels, ensuring inclusivity for beginners to more experienced individuals. Typically, a micro-challenge can be completed within a couple of hours to two days.
+A Coding Quest is a small task or project to be completed within a specific time frame. It promotes learning through hands-on coding experience. This Coding Quest aims to help you practice React by working out some problems in this existing app.
 
 **Difficulty**: ★★☆
 
 **What you will build:**
-In this micro-challenge, you will develop and compare two machine learning models - Decision Tree and Random Forest - to predict Boston house prices. Using the Boston house prices dataset, you'll load and preprocess the data, train both models, and evaluate their performances to identify which model more accurately predicts house prices.
+In this coding quest, you will develop and compare two machine learning models - Decision Tree and Random Forest - to predict Boston house prices. Using the Boston house prices dataset, you'll load and preprocess the data, train both models, and evaluate their performances to identify which model more accurately predicts house prices.
 
 **How you will build it:**
 
